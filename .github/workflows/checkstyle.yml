@@ -23,7 +23,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
         - name: Run check style
-          uses: nikitasavinov/checkstyle-action@master
+          uses: nikitasavinov/checkstyle-action@0.6.0
           with:
              github_token: ${{ secrets.SECRET_TOKEN }}
              level: 'error'
