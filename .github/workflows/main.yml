@@ -40,4 +40,4 @@ jobs:
           git --version
           echo what about bild tools?
           gradle --version
-          ant --version
+          ant -version
