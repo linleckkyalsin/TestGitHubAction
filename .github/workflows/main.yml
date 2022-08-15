@@ -39,6 +39,5 @@ jobs:
           echo is Git installed?
           git --version
           echo what about bild tools?
-          maven --version
           gradle --version
           ant --version
