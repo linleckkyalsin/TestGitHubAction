@@ -1,4 +1,4 @@
-ls -a
+          ls -a
           echo is Java Installed?
           java -version
           echo is Git installed?
